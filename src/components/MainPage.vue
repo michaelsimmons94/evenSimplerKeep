@@ -79,9 +79,6 @@
 </v-flex>
 </v-layout>
 </v-container>
-<v-footer>
-  <a href="https://github.com/michaelsimmons94/evenSimplerKeep.git">Get the orignial code here!</a>
-</v-footer>
 </v-app>
 </template>
 <script>

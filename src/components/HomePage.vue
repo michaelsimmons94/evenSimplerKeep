@@ -7,6 +7,7 @@
       <welcome-page/>
     </div>
   </div>
+  
 </template>
 
 <script>

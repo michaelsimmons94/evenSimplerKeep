@@ -3,6 +3,9 @@
     <div id="app">
     <app-header></app-header>
     <router-view/>
+    <v-footer fixed=true>
+  <a href="https://github.com/michaelsimmons94/evenSimplerKeep.git">Get the orignial code here!</a>
+</v-footer>
   </div>
   </v-app>
 </template>
