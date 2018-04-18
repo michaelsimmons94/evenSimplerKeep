@@ -2,12 +2,11 @@
 
 module.exports = {
 
-  development: {
+development: {
     client: 'mariasql',
     connection: {
-      host     : '127.0.0.1',
-      user     : 'root',
-      password : '',
+      unixSocket : '/var/run/mysqld/mysqld.sock',
+      user     : 'michael',
       db : 'final_creative',
       charset  : 'utf8'
     }
